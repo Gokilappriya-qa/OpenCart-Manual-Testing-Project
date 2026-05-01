@@ -22,9 +22,6 @@ The following modules are covered as part of testing:
 * Product Search & Filtering
 * Product Details Page
 * Shopping Cart
-* Checkout Process
-* Order Management
-* Admin Panel (basic operations)
 
 ## Tools Used
 
